@@ -1,8 +1,8 @@
 ## Hello there! 👋
 <div>
   <a href="https://www.linkedin.com/in/matheus-chauss%C3%AA/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mchausse22&show_icons=true&theme=transparent">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchausse22&layout=compact&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mchausse22&show_icons=true&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchausse22&layout=compact&theme=tokyonight">
 </div>
 <!--
 **MChausse22/MChausse22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
